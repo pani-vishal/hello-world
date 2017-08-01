@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository for the beginner's tutorial
+Hii people.
+Vishal here, just chill bro.
